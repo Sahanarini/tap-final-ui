@@ -1,0 +1,40 @@
+{
+    "approvers": [
+     
+    ],
+    "employees": [
+      {
+        "id": "1",
+        "name": "Akshay",
+        "contact": "john@example.com",
+        "image": "https://png.pngitem.com/pimgs/s/404-4042710_circle-profile-picture-png-transparent-png.png",
+        "role": "Software Engineer"
+      },
+      {
+        "id": "2",
+        "name": "Lithi",
+        "contact": "jane@example.com",
+        "image": "https://png.pngitem.com/pimgs/s/128-1284293_marina-circle-girl-picture-in-circle-png-transparent.png",
+        "role": "Project Manager"
+      },
+      {
+        "id": "3",
+        "name": "Angelina",
+        "contact": "alice@example.com",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYZeZ2LduOmysSwgiQSnETsu_e82DkgEPI8HOghsnd3DLUDLbWe4od5a-6FN6otW8mjY&usqp=CAU",
+        "role": "UX Designer"
+      }
+    ],
+    "workflow": [
+      {
+        "id": "1",
+        "workflowtype": "approver",
+        "count": "3",
+        "employeeId": "3",
+        "mrfId": "1",
+        "status": "pending",
+        "reason": null
+      }
+    ]
+  }
+  
